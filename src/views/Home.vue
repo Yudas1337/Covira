@@ -321,7 +321,7 @@ export default {
           tileSize: 512,
           zoomOffset: -1,
           accessToken:
-            "pk.eyJ1IjoieXVkYXMxMzM3IiwiYSI6ImNrcTRzYzluYTA0b3AycG10ajIxMHFsb2UifQ.7qxCM6OPb-e0mmhaXOXtHw",
+            "YOUR_ACCESS_TOKEN",
         }
       ).addTo(mymap);
 
